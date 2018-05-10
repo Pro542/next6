@@ -1,0 +1,6 @@
+.example {
+    font-size: 50px;
+    margin: 0;
+    border: var(--border);
+    background-color: var(--background-color);
+  }

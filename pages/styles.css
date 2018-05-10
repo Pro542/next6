@@ -1,0 +1,5 @@
+:global(body) {
+    font-family: 'Source Serif Pro', serif;
+    color: var(--body-font-color);
+    background-color: var(--body-background-color);
+}

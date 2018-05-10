@@ -1,0 +1,1 @@
+export default () => 'Oops! Something went wrong.'
